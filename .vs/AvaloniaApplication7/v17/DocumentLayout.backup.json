@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\irisp\\source\\repos\\AvaloniaApplication7\\",
+  "WorkspaceRootPath": "C:\\Users\\irisp\\source\\repos\\AvaloniaAuth\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE64732D-595E-4CBD-B11F-263E170186C0}|AvaloniaApplication7\\AvaloniaApplication7.csproj|c:\\users\\irisp\\source\\repos\\avaloniaapplication7\\avaloniaapplication7\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "AbsoluteMoniker": "D:0:0:{EE64732D-595E-4CBD-B11F-263E170186C0}|AvaloniaApplication7\\AvaloniaApplication7.csproj|c:\\users\\irisp\\source\\repos\\avaloniaauth\\avaloniaapplication7\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
       "RelativeMoniker": "D:0:0:{EE64732D-595E-4CBD-B11F-263E170186C0}|AvaloniaApplication7\\AvaloniaApplication7.csproj|solutionrelative:avaloniaapplication7\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE64732D-595E-4CBD-B11F-263E170186C0}|AvaloniaApplication7\\AvaloniaApplication7.csproj|c:\\users\\irisp\\source\\repos\\avaloniaapplication7\\avaloniaapplication7\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE64732D-595E-4CBD-B11F-263E170186C0}|AvaloniaApplication7\\AvaloniaApplication7.csproj|solutionrelative:avaloniaapplication7\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE64732D-595E-4CBD-B11F-263E170186C0}|AvaloniaApplication7\\AvaloniaApplication7.csproj|c:\\users\\irisp\\source\\repos\\avaloniaauth\\avaloniaapplication7\\win.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{EE64732D-595E-4CBD-B11F-263E170186C0}|AvaloniaApplication7\\AvaloniaApplication7.csproj|solutionrelative:avaloniaapplication7\\win.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE64732D-595E-4CBD-B11F-263E170186C0}|AvaloniaApplication7\\AvaloniaApplication7.csproj|c:\\users\\irisp\\source\\repos\\avaloniaapplication7\\avaloniaapplication7\\win.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EE64732D-595E-4CBD-B11F-263E170186C0}|AvaloniaApplication7\\AvaloniaApplication7.csproj|c:\\users\\irisp\\source\\repos\\avaloniaauth\\avaloniaapplication7\\win.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE64732D-595E-4CBD-B11F-263E170186C0}|AvaloniaApplication7\\AvaloniaApplication7.csproj|solutionrelative:avaloniaapplication7\\win.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE64732D-595E-4CBD-B11F-263E170186C0}|AvaloniaApplication7\\AvaloniaApplication7.csproj|c:\\users\\irisp\\source\\repos\\avaloniaapplication7\\avaloniaapplication7\\win.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{EE64732D-595E-4CBD-B11F-263E170186C0}|AvaloniaApplication7\\AvaloniaApplication7.csproj|solutionrelative:avaloniaapplication7\\win.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+      "AbsoluteMoniker": "D:0:0:{EE64732D-595E-4CBD-B11F-263E170186C0}|AvaloniaApplication7\\AvaloniaApplication7.csproj|c:\\users\\irisp\\source\\repos\\avaloniaauth\\avaloniaapplication7\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE64732D-595E-4CBD-B11F-263E170186C0}|AvaloniaApplication7\\AvaloniaApplication7.csproj|solutionrelative:avaloniaapplication7\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,12 +38,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Win.axaml",
-              "DocumentMoniker": "C:\\Users\\irisp\\source\\repos\\AvaloniaApplication7\\AvaloniaApplication7\\Win.axaml",
+              "DocumentMoniker": "C:\\Users\\irisp\\source\\repos\\AvaloniaAuth\\AvaloniaApplication7\\Win.axaml",
               "RelativeDocumentMoniker": "AvaloniaApplication7\\Win.axaml",
-              "ToolTip": "C:\\Users\\irisp\\source\\repos\\AvaloniaApplication7\\AvaloniaApplication7\\Win.axaml",
-              "RelativeToolTip": "AvaloniaApplication7\\Win.axaml",
+              "ToolTip": "C:\\Users\\irisp\\source\\repos\\AvaloniaAuth\\AvaloniaApplication7\\Win.axaml*",
+              "RelativeToolTip": "AvaloniaApplication7\\Win.axaml*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-02-17T15:27:26.544Z",
               "EditorCaption": ""
@@ -52,11 +52,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Win.axaml.cs",
-              "DocumentMoniker": "C:\\Users\\irisp\\source\\repos\\AvaloniaApplication7\\AvaloniaApplication7\\Win.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\irisp\\source\\repos\\AvaloniaAuth\\AvaloniaApplication7\\Win.axaml.cs",
               "RelativeDocumentMoniker": "AvaloniaApplication7\\Win.axaml.cs",
-              "ToolTip": "C:\\Users\\irisp\\source\\repos\\AvaloniaApplication7\\AvaloniaApplication7\\Win.axaml.cs",
+              "ToolTip": "C:\\Users\\irisp\\source\\repos\\AvaloniaAuth\\AvaloniaApplication7\\Win.axaml.cs",
               "RelativeToolTip": "AvaloniaApplication7\\Win.axaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA2wBMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-17T15:27:26.316Z",
               "EditorCaption": ""
@@ -65,21 +65,21 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.axaml",
-              "DocumentMoniker": "C:\\Users\\irisp\\source\\repos\\AvaloniaApplication7\\AvaloniaApplication7\\MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\irisp\\source\\repos\\AvaloniaAuth\\AvaloniaApplication7\\MainWindow.axaml",
               "RelativeDocumentMoniker": "AvaloniaApplication7\\MainWindow.axaml",
-              "ToolTip": "C:\\Users\\irisp\\source\\repos\\AvaloniaApplication7\\AvaloniaApplication7\\MainWindow.axaml*",
-              "RelativeToolTip": "AvaloniaApplication7\\MainWindow.axaml*",
+              "ToolTip": "C:\\Users\\irisp\\source\\repos\\AvaloniaAuth\\AvaloniaApplication7\\MainWindow.axaml",
+              "RelativeToolTip": "AvaloniaApplication7\\MainWindow.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-02-17T13:42:38.694Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainWindow.axaml.cs",
-              "DocumentMoniker": "C:\\Users\\irisp\\source\\repos\\AvaloniaApplication7\\AvaloniaApplication7\\MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\irisp\\source\\repos\\AvaloniaAuth\\AvaloniaApplication7\\MainWindow.axaml.cs",
               "RelativeDocumentMoniker": "AvaloniaApplication7\\MainWindow.axaml.cs",
-              "ToolTip": "C:\\Users\\irisp\\source\\repos\\AvaloniaApplication7\\AvaloniaApplication7\\MainWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\irisp\\source\\repos\\AvaloniaAuth\\AvaloniaApplication7\\MainWindow.axaml.cs",
               "RelativeToolTip": "AvaloniaApplication7\\MainWindow.axaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

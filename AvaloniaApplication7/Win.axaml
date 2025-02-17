@@ -6,7 +6,7 @@
         x:Class="AvaloniaApplication7.Win"
         Title="Win">
 	<StackPanel>
-		<TextBlock Name="NameWin" Text="Ваше имя: "/>
-		<TextBlock Name="EmailWin" Text="Ваша почта: "/>
+		<TextBlock Name="NameWin"/>
+		<TextBlock Name="EmailWin"/>
 	</StackPanel>
 </Window>
